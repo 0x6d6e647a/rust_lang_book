@@ -1,0 +1,7 @@
+#+TITLE: The Rust Programming Language
+
+Exercise Solutions
+
+- Title :: The Rust Programming Language, 2nd Edition
+- Authors :: Steve Klabnik & Carol Nichols
+- ISBN-10 :: 1718503105
