@@ -1,5 +1,5 @@
 [workspace]
-
+resolver = "2"
 members = [
     "Ch 01 - Getting Started/hello_cargo",
     "Ch 02 - Programming a Guessing Game/guessing_game",
@@ -14,4 +14,6 @@ members = [
     "Ch 12 - An I⁄O Project∶ Building a Command Line Program/minigrep",
     "Ch 13 - Functional Language Features∶ Iterators and Closures/minigrep_iter",
     "Ch 13 - Functional Language Features∶ Iterators and Closures/tshirtcompany",
+    "Ch 15 - Smart Pointers/cons",
+    "Ch 15 - Smart Pointers/tree",
 ]
