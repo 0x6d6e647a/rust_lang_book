@@ -1,0 +1,17 @@
+[workspace]
+
+members = [
+    "Ch 01 - Getting Started/hello_cargo",
+    "Ch 02 - Programming a Guessing Game/guessing_game",
+    "Ch 03 - Common Programming Concepts/fibonacci",
+    "Ch 03 - Common Programming Concepts/temperature",
+    "Ch 03 - Common Programming Concepts/twelve_days_of_christmas",
+    "Ch 05 - Using Structs to Structure Related Data/rectangles",
+    "Ch 08 - Common Collections/human_resources",
+    "Ch 08 - Common Collections/median_and_mode",
+    "Ch 08 - Common Collections/pig_latin",
+    "Ch 11 - Writing Automated Tests/adder",
+    "Ch 12 - An I⁄O Project∶ Building a Command Line Program/minigrep",
+    "Ch 13 - Functional Language Features∶ Iterators and Closures/minigrep_iter",
+    "Ch 13 - Functional Language Features∶ Iterators and Closures/tshirtcompany",
+]
