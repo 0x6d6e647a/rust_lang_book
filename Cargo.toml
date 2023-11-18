@@ -16,4 +16,7 @@ members = [
     "Ch 13 - Functional Language Features∶ Iterators and Closures/tshirtcompany",
     "Ch 15 - Smart Pointers/cons",
     "Ch 15 - Smart Pointers/tree",
+    "Ch 16 - Fearless Concurrency/thread",
+    "Ch 16 - Fearless Concurrency/msg_passing",
+    "Ch 16 - Fearless Concurrency/mutexes",
 ]
