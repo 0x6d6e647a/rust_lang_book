@@ -19,4 +19,7 @@ members = [
     "Ch 16 - Fearless Concurrency/thread",
     "Ch 16 - Fearless Concurrency/msg_passing",
     "Ch 16 - Fearless Concurrency/mutexes",
+    "Ch 17 - Object-Oriented Programming Features of Rust/gui",
+    "Ch 17 - Object-Oriented Programming Features of Rust/blog",
+    "Ch 17 - Object-Oriented Programming Features of Rust/blog2",
 ]
