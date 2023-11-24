@@ -25,4 +25,5 @@ members = [
     "Ch 19 - Advanced Features/hello_macro",
     "Ch 19 - Advanced Features/hello_macro/hello_macro_derive",
     "Ch 19 - Advanced Features/pancakes",
+    "Ch 20 - Final Project∶ Building a Multithreaded Web Server/hello",
 ]
